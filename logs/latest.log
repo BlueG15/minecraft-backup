@@ -1,0 +1,283 @@
+[21:25:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:25:52] [ServerMain/INFO]: Loaded 1470 recipes
+[21:25:52] [ServerMain/INFO]: Loaded 1584 advancements
+[21:25:52] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[21:25:52] [Server thread/INFO]: Loading properties
+[21:25:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:25:52] [Server thread/INFO]: Generating keypair
+[21:25:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:25:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:25:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:25:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:25:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:25:53] [Server thread/INFO]: Preparing level "world"
+[21:25:53] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:25:53] [Server thread/INFO]: Preparing spawn area: 100%
+[21:25:53] [Server thread/INFO]: Time elapsed: 30 ms
+[21:25:53] [Server thread/INFO]: Done (0.350s)! For help, type "help"
+[21:26:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:30:07] [Server thread/INFO]: Blu_derp[/127.0.0.1:61051] logged in with entity id 43 at (-510.80262964128, 89.0, -160.29968529697476)
+[21:30:07] [Server thread/INFO]: Blu_derp joined the game
+[21:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21:31:33] [Server thread/INFO]: December[/[0:0:0:0:0:0:0:1]:61056] logged in with entity id 590 at (8.5, 65.0, 4.5)
+[21:31:33] [Server thread/INFO]: December joined the game
+[21:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[21:31:46] [Server thread/INFO]: [Not Secure] <Blu_derp> eyyy
+[21:31:51] [Server thread/INFO]: [Not Secure] <December> sup boii
+[21:32:01] [Server thread/INFO]: [Not Secure] <Blu_derp> hold a bit ima hop into vc
+[21:32:03] [Server thread/INFO]: [Not Secure] <December> where you at?
+[21:32:03] [Server thread/INFO]: Blu_derp lost connection: Disconnected
+[21:32:03] [Server thread/INFO]: Blu_derp left the game
+[21:34:01] [Server thread/INFO]: Blu_derp[/127.0.0.1:61071] logged in with entity id 1177 at (-515.3500721081441, 88.0, -157.5095208452311)
+[21:34:02] [Server thread/INFO]: Blu_derp joined the game
+[21:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[21:34:49] [Server thread/INFO]: [Not Secure] <December> sup
+[21:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:35:47] [Server thread/INFO]: [Not Secure] <Blu_derp> sup
+[21:35:52] [Server thread/INFO]: [Not Secure] <December> yes
+[21:35:57] [Server thread/INFO]: [Not Secure] <Blu_derp> hop in vc
+[21:36:03] [Server thread/INFO]: [Not Secure] <Blu_derp> my man
+[21:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:36:10] [Server thread/INFO]: [Not Secure] <December> ah ok
+[21:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[21:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[21:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5154ms or 103 ticks behind
+[21:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
+[21:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[21:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[21:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[21:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3520ms or 70 ticks behind
+[21:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3165ms or 63 ticks behind
+[21:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[21:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
+[21:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[21:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[21:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
+[21:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[21:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
+[21:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4847ms or 96 ticks behind
+[21:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4775ms or 95 ticks behind
+[21:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4954ms or 99 ticks behind
+[21:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6682ms or 133 ticks behind
+[21:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
+[21:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5293ms or 105 ticks behind
+[21:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7508ms or 150 ticks behind
+[21:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8652ms or 173 ticks behind
+[21:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5688ms or 113 ticks behind
+[21:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6673ms or 133 ticks behind
+[21:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7265ms or 145 ticks behind
+[21:44:52] [Server thread/INFO]: Blu_derp drowned
+[21:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4212ms or 84 ticks behind
+[21:45:18] [Server thread/INFO]: Blu_derp fell from a high place
+[21:47:17] [Server thread/INFO]: Blu_derp burned to death
+[21:47:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[21:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[21:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[21:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3736ms or 74 ticks behind
+[21:48:27] [Server thread/INFO]: Blu_derp was shot by Skeleton
+[21:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[21:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
+[21:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[21:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[21:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18630ms or 372 ticks behind
+[21:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18219ms or 364 ticks behind
+[21:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21193ms or 423 ticks behind
+[21:51:50] [Server thread/WARN]: December moved too quickly! 8.705005238875344,-0.3235291238557281,-5.076581272061702
+[21:51:57] [Server thread/INFO]: Blu_derp discovered the floor was lava
+[21:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22959ms or 459 ticks behind
+[21:52:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12819ms or 256 ticks behind
+[21:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13881ms or 277 ticks behind
+[21:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8610ms or 172 ticks behind
+[21:53:44] [Server thread/INFO]: December tried to swim in lava
+[21:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11795ms or 235 ticks behind
+[21:54:18] [Server thread/INFO]: Blu_derp has made the advancement [Sweet Dreams]
+[21:54:56] [Server thread/INFO]: December has made the advancement [Sweet Dreams]
+[21:55:32] [Server thread/INFO]: Blu_derp fell from a high place
+[21:55:47] [Server thread/INFO]: December was slain by Blu_derp
+[21:58:44] [Server thread/INFO]: Blu_derp has made the advancement [Diamonds!]
+[22:00:10] [Server thread/INFO]: Blu_derp fell from a high place
+[22:02:22] [Server thread/INFO]: Blu_derp fell from a high place
+[22:02:37] [Server thread/INFO]: [Not Secure] <Blu_derp> decay
+[22:05:45] [Server thread/INFO]: December fell from a high place
+[22:09:54] [Server thread/INFO]: Blu_derp fell from a high place
+[22:10:23] [Server thread/INFO]: December was doomed to fall by Spider
+[22:10:38] [Server thread/INFO]: Blu_derp fell from a high place
+[22:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[22:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[22:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
+[22:23:50] [Server thread/INFO]: December has made the advancement [Ice Bucket Challenge]
+[22:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:24:55] [Server thread/INFO]: Blu_derp has made the advancement [Ice Bucket Challenge]
+[22:25:13] [Server thread/INFO]: December has made the advancement [Who is Cutting Onions?]
+[22:25:57] [Server thread/INFO]: December has made the advancement [We Need to Go Deeper]
+[22:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22853ms or 457 ticks behind
+[22:26:10] [Server thread/INFO]: Blu_derp has made the advancement [We Need to Go Deeper]
+[22:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:28:25] [Server thread/INFO]: Blu_derp tried to swim in lava
+[22:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17535ms or 350 ticks behind
+[22:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14976ms or 299 ticks behind
+[22:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11432ms or 228 ticks behind
+[22:29:33] [Server thread/INFO]: Blu_derp was slain by Zombie
+[22:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12559ms or 251 ticks behind
+[22:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13845ms or 276 ticks behind
+[22:30:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10807ms or 216 ticks behind
+[22:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16182ms or 323 ticks behind
+[22:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23726ms or 474 ticks behind
+[22:32:39] [Server thread/INFO]: [Blu_derp: Teleported Blu_derp to December]
+[22:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21283ms or 425 ticks behind
+[22:33:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5853ms or 117 ticks behind
+[22:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8707ms or 174 ticks behind
+[22:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7791ms or 155 ticks behind
+[22:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[22:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.138665053058958,0.0,7.263877492307529
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.381307290854579,0.0,7.5750557967248255
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.630232649730601,0.0,7.880939882498012
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.885704715256679,0.0,8.180965564221822
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -8.147837645748723,0.0,8.474708698498944
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -8.416629808504922,0.0,8.761867789721748
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -8.691992044485232,0.0,9.042245971579462
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -8.973765194005978,0.0,9.315742684305292
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -9.261740936259685,0.0,9.582335289587604
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -9.55567711761455,0.0,9.842064585938317
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -9.85530676381154,0.0,10.095027613780474
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -10.160347435188328,0.0,10.341367315038099
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -10.47051070436305,0.0,10.581259307762139
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -10.785504800190552,0.0,10.814909799433963
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -11.105040135193917,0.0,11.042546636475095
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -11.4288337996893,0.0,11.264410971271843
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -11.756611613468749,0.0,11.480753022126862
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -12.088108184174871,0.0,11.691831630465856
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -12.423069951246248,0.0,11.897906780546975
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -12.761254606234502,0.0,12.099239770162114
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -13.102432016502576,0.0,12.296089801028131
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -13.446386401382483,0.0,12.488707306851893
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -13.792912248297057,0.0,12.677342046018737
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -14.141817987266563,0.0,12.862232665668671
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -14.49292333750077,0.0,13.043611449635932
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -14.84605981015693,0.0,13.221701477221018
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -15.201071086315778,0.0,13.396714040940196
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -15.557810499862853,0.0,13.568853433147922
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -15.916142981659505,0.0,13.738310550306323
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -16.275942562465616,0.0,13.905267832136701
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -16.63709154118078,0.0,14.069900134301975
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -16.999481092266933,0.0,14.232371931023238
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -17.36301178635165,0.0,14.392834787189997
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -17.72758994605033,0.0,14.55143582513415
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -18.09312983120776,0.0,14.708311013534342
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -18.45955285635057,0.0,14.863586288369731
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -18.826785541565187,0.0,15.017382151095148
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -19.194760372848464,0.0,15.169810630227062
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -19.56341655407141,0.0,15.320972538389071
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -19.932696656708117,0.0,15.470965782780468
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -20.302547642806303,0.0,15.619882066401601
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -20.672921759583687,0.0,15.767803916362539
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -21.043774680982324,0.0,15.91480919637769
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -21.415066502375225,0.0,16.060967980994064
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -21.78675996849438,0.0,16.2063469294136
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -22.158820219671043,0.0,16.3510096326155
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -22.53121587475357,0.0,16.495013318754218
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -22.90391736450283,0.0,16.63841309086655
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -23.276899391631787,0.0,16.781254941191264
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -23.650137866104615,0.0,16.923583861372435
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -24.023609780686343,0.0,17.065443943450532
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -24.39729575134413,0.0,17.20687126790517
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -24.771177009970756,0.0,17.347901907660287
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -25.145236661545027,0.0,17.48856832927777
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -25.519458181795358,0.0,17.62890335129299
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -25.893828017630426,0.0,17.768932909893977
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -26.268332656241114,0.0,17.908683950936393
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.2658208125997135,0.0,7.103492261411475
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.256334953551118,0.0,7.117549464221895
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.247797680633539,0.0,7.130200946416096
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.586058634997926,0.0,7.32366354102021
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.2331986571082325,0.0,7.151835238099977
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.2269721738528006,0.0,7.1610607218524365
+[22:34:55] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! -7.221368339071319,0.0,7.16936365700974
+[22:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16742ms or 334 ticks behind
+[22:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12017ms or 240 ticks behind
+[22:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4458ms or 89 ticks behind
+[22:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[22:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6459ms or 129 ticks behind
+[22:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6460ms or 129 ticks behind
+[22:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7645ms or 152 ticks behind
+[22:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
+[22:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
+[22:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7980ms or 159 ticks behind
+[22:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6676ms or 133 ticks behind
+[22:39:20] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! 6.5871563755982265,0.0,8.014395483183023
+[22:39:20] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! 6.833991089415463,0.0,8.32887728976874
+[22:39:20] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! 7.080630477039449,0.0,8.643536559021186
+[22:39:20] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! 7.326535420973016,0.0,8.95878035069802
+[22:39:20] [Server thread/WARN]: Spruce Boat (vehicle of Blu_derp) moved too quickly! 7.570699985090528,0.0,9.275328526269107
+[22:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10113ms or 202 ticks behind
+[22:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
+[22:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6340ms or 126 ticks behind
+[22:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11226ms or 224 ticks behind
+[22:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6465ms or 129 ticks behind
+[22:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13064ms or 261 ticks behind
+[22:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4837ms or 96 ticks behind
+[22:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6239ms or 124 ticks behind
+[22:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
+[22:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14386ms or 287 ticks behind
+[22:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4689ms or 93 ticks behind
+[22:45:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[22:45:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[22:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[22:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[22:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[22:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
+[22:47:25] [Server thread/INFO]: December has made the advancement [Tactical Fishing]
+[22:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:51:38] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-2682, y=61, z=992} is{x=-2682, y=62, z=992}
+[22:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[22:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
+[22:52:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
+[22:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[22:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[22:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4109ms or 82 ticks behind
+[22:55:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[22:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[22:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:58:00] [Server thread/INFO]: [Not Secure] <December> plain
+[22:58:02] [Server thread/INFO]: [Not Secure] <Blu_derp> plane village
+[22:58:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[22:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[23:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
+[23:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22275ms or 445 ticks behind
+[23:01:05] [Server thread/WARN]: December moved too quickly! -0.6593292870306868,0.5061351021062137,10.259354899980735
+[23:01:27] [Server thread/WARN]: December moved too quickly! 1.3556872046669923,2.249187078744683,9.979525621216453
+[23:01:47] [Server thread/WARN]: December moved too quickly! 0.38203812894516886,-0.756759288177264,10.42083553166026
+[23:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39069ms or 781 ticks behind
+[23:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8464ms or 169 ticks behind
+[23:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[23:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[23:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[23:05:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[23:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26746ms or 534 ticks behind
+[23:07:11] [Server thread/INFO]: Blu_derp burned to death
+[23:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25626ms or 512 ticks behind
+[23:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24035ms or 480 ticks behind
+[23:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[23:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4061ms or 81 ticks behind
+[23:09:22] [Server thread/INFO]: Blu_derp burned to death
+[23:09:27] [Server thread/INFO]: December burned to death
+[23:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11476ms or 229 ticks behind
+[23:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11460ms or 229 ticks behind
+[23:10:15] [Server thread/INFO]: Blu_derp lost connection: Disconnected
+[23:10:15] [Server thread/INFO]: Blu_derp left the game
+[23:10:22] [Server thread/INFO]: December discovered the floor was lava
+[23:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
